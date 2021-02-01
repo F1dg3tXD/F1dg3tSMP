@@ -8,4 +8,4 @@ https://java.com/en/download/
 
 Last thing. (Probably mandatory now.)
 Download the resource pack here.
-https://drive.google.com/file/d/1OqZF8Wcccy-uPxXtDr0yA_4jNa76m7fG/view?usp=sharing
+https://drive.google.com/file/d/1H28AMndNYdck57bPfzdUvBP9iJVmyPmu/view?usp=sharing
